@@ -12,3 +12,4 @@ int main() {
 	printf("Normal:       between 18.5 and 24.9\nOverweight:   between 25 and 29.9\n");
 	printf("Obese:        30 or greater");
 }
+https://1drv.ms/u/s!ArVFrCEec1RmgnyZgTsZn1oQSS1S?e=rHk448
